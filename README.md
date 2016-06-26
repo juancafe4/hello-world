@@ -1,2 +1,2 @@
 # hello-world
-Just a tutorial for a bootcamp
+Just a tutorial that I need to complete for a bootcamp for the summer
